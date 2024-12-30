@@ -1,2 +1,2 @@
-# study_dtb
+# study_dbt
 study dbt
